@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "564781379986",
+    "firebase_url": "https://fooshia.firebaseio.com",
+    "project_id": "fooshia",
+    "storage_bucket": "fooshia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564781379986:android:1e5b5c8bd9f1c4f338114b",
+        "android_client_info": {
+          "package_name": "com.divitiae.fooshiamessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNyCH03rS62phT_VonSKQIOVIzGTCJtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564781379986-ncqhkd1dir223msschmh7186g5pho0je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564781379986:android:99eea34ff8960aef38114b",
+        "android_client_info": {
+          "package_name": "com.divitiae.fooshiatimeline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNyCH03rS62phT_VonSKQIOVIzGTCJtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564781379986-ncqhkd1dir223msschmh7186g5pho0je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
