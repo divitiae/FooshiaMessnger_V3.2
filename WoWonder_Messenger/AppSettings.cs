@@ -11,7 +11,7 @@ namespace WoWonder
 {
     public static class AppSettings
     {
-        public static string TripleDesAppServiceProvider = "iwjLdtDnEKUcMV+dROrgjJPQxvkqB+c4diAt5A8BKXWtsAheg8ptxT55oX6mEwg9rLNVGPh3fhjzJOT4vAoQY2LyLN7BkJL76XnJ33Ot7K/SrFwiTTCEc3dlu4PjSvvjtecfQZ3gSVjZW4Swya0DcW5LNU+iB6h6dwnMDkjgzcIVyfkYEVRGTYKa+juacyF1CapJ8i6zOj1ld4WKJBsdpdKH2mXgOh4c0/lJZ3A+VgE6ndyGxgkJMh+NEYm0WiLXsd/LHPor9LU6sLYSFPjbVXUAaCMmpuN8MXN5DkN2b8R8DKQaatE34/dyxk4eoQbS";
+        public static string TripleDesAppServiceProvider = "RAGzcFa2766TwHnA6YJ1LtAYNMrMuWVioswcVJ3+OeZAkdD49dxhHbbQ1okles5We0RA23F37SL7lkSBzGtRJVyza/2TzfhyLnas9d6yAiUpIqTUdKVErU8GtvXxSQ7Tq1qxVnrfTY2VgOMyfWsJnU8LIj9J0skaiV2+h174LG17hbuz5wwBHBj/1XfdOsgcnIdVc+6Fs3Hc6+tDruBBk/XFGsOZ5TwBH0NpZxkhipn340XT/jjzdmcwFCAjAz/eXMGxPC921itUn5ZsTnNg1ycLXBECtIaGcJSLhfWqbmM2eorBCr3sLnFFYKZJyElY";
 
         //Main Settings >>>>>
         //*********************************************************
